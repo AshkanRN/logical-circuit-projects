@@ -1,2 +1,2 @@
-Final project of Logical Circuit by:
+Final project of Logical Circuit Lab by:
 Ashkan Rafiei Nezhad & Amirhossein Khadivi
